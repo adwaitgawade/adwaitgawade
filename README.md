@@ -4,7 +4,7 @@
 - 👀 I’m interested in AI ML DS
 - 🌱 I’m currently learning Bachelors Of Computer Science
 - 💞️ I’m looking to collaborate on Image Recognition      📸🔍
-- 📫 How to reach me : [AdwaitG02](https://github.com/ADlv19)
+- 📫 How to reach me : [AdwaitG02](https://github.com/ADlv19) or [Adwait's Mail](adwaitg02@gmail.com)
 
 ### I know 
                                                       Java ☕ 
