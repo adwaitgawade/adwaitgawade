@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @ADwait
 - 👀 I’m interested in AI ML DS
-- 🌱 I’m currently learning Bachelors Of Computer Science
+- 🌱 I’m currently learning Bachelors Of Information Technology
 - 💞️ I’m looking to collaborate on Image Recognition      📸🔍
 - 📫 How to reach me : [AdwaitG02](https://github.com/ADlv19) or [Adwait's LinkedIn](https://www.linkedin.com/in/adwait-gawade-31750920b/)
 
