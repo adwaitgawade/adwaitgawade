@@ -1,4 +1,4 @@
-   ![Adwait's GitHub stats](https://github-readme-stats.vercel.app/api?username=ADlv19&count_private=true&show_icons=true&theme=radical)
+   ![Adwait's GitHub stats](https://github-readme-stats.vercel.app/api?username=ADlv20&count_private=true&show_icons=true&theme=radical)
 
 - 👋 Hi, I’m @ADwait
 - 👀 I’m interested in AI ML DS
