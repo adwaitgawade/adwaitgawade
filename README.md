@@ -1,9 +1,9 @@
    ![Adwait's GitHub stats](https://github-readme-stats.vercel.app/api?username=ADlv20&count_private=true&show_icons=true&theme=radical)
 
 - 👋 Hi, I’m @ADwait
-- 👀 I’m interested in AI ML DS
+- 👀 I’m interested in AI/ML Game Dev & XR
 - 🌱 I’m currently learning Bachelors Of Information Technology
-- 💞️ I’m looking to collaborate on Image Recognition      📸🔍
+- 💞️ I’m looking to collaborate on Image Recognition      📸🔍 and AR
 - 📫 How to reach me : [AdwaitG02](https://github.com/ADlv20) or [Adwait's LinkedIn](https://www.linkedin.com/in/adwait-gawade-31750920b/)
 
 ### I know 
