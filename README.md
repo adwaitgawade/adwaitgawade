@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there!%20I'm%20Adwait%20🚀&fontSize=80&fontAlignY=35&desc=Cloud%20%26%20Backend%20Developer%20from%20India%20🇮🇳&descAlignY=51&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hi%20there!%20I'm%20Adwait%20🚀&reversal=true&textBg=false&fontSize=80&fontAlignY=35&desc=Cloud%20and%20Backend%20Dev" />
 </div>
 
 <div align="center">
@@ -49,7 +49,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ADlv21&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=ffffff" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ADlv21" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -164,35 +164,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-<h2 align="center">🌟 Featured Projects</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🚀 Project Showcase</h3>
-        <div align="center">
-          <a href="https://github.com/ADlv21">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=ADlv21&repo=YourAwesomeProject&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" />
-          </a>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">💡 Innovation Hub</h3>
-        <div align="center">
-          <a href="https://github.com/ADlv21">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=ADlv21&repo=AnotherCoolProject&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" />
-          </a>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
 <h2 align="center">📫 Let's Connect!</h2>
 
 <div align="center">
@@ -229,7 +200,6 @@
   <br>
   <img src="https://komarev.com/ghpvc/?username=ADlv21&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <br><br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
 
 <div align="center">
