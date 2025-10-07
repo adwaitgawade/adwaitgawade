@@ -39,17 +39,17 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=ADlv21&theme=react&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" height="180" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=ad-v8&theme=react&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" height="180" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADlv21&theme=react&show_icons=true&hide_border=true&layout=compact&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" height="180" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ad-v8&theme=react&show_icons=true&hide_border=true&layout=compact&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" height="180" alt="Top Languages" />
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ADlv21" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ad-v8" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -147,7 +147,7 @@
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ADlv21&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=2" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ad-v8&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=2" alt="GitHub Trophies" />
 </div>
 
 <div align="center">
@@ -157,7 +157,7 @@
 <h2 align="center">📈 Contribution Graph</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ADlv21&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ad-v8&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 <div align="center">
@@ -198,7 +198,7 @@
 <div align="center">
   <h3>💫 "Code is like humor. When you have to explain it, it's bad." - Cory House</h3>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=ADlv21&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ad-v8&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <br><br>
 </div>
 
