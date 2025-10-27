@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hi%20there!%20I'm%20Adwait%20🚀&reversal=true&textBg=false&fontSize=80&fontAlignY=35&desc=Cloud%20and%20Backend%20Dev" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hi%20there!%20I'm%20Adwait%20🚀&reversal=true&textBg=false&fontSize=80&fontAlignY=35&desc=Cloud%20and%20Fullstack%20Dev" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Cloud+%26+Backend+Developer;Full+Stack+Engineer;Always+Learning+New+Things!;Building+Scalable+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Cloud+%26+Fullstack+Developer;Full+Stack+Engineer;Always+Learning+New+Things!;Building+Scalable+Solutions" alt="Typing SVG" />
 </div>
 
 <div align="center">
