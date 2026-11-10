@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="banner.svg" width="100%" alt="Adwait Gawade, Java full-stack and cloud engineer. Java, Spring Boot, Next.js, PostgreSQL, AWS." />
+  <img src="banner.svg" width="100%" alt="Adwait Gawade, Java full-stack and cloud engineer. Java, Spring Boot, Python, FastAPI, Next.js, PostgreSQL, AWS." />
 </p>
 
 <p align="center">
-  I build backends in <b>Java and Spring Boot</b>, <b>Python and FastAPI</b>, frontends in <b>Next.js</b>, and run them on <b>AWS, Hetzner and Cloudflare</b>.<br />
+  I build backends in <b>Java and Spring Boot</b>, frontends in <b>Next.js</b>, and run them on <b>AWS, Hetzner and Cloudflare</b>.<br />
   Two and a half years across logistics ERP, insurance, healthcare and IoT, from the database schema to the deploy.
 </p>
 
@@ -16,7 +16,7 @@
 <br />
 
 <p align="center">
-  <img src="trail.svg" width="100%" alt="The trail so far. Dec 2023 to May 2024, Acuradyne Medical Systems, Software Engineer Intern: Spring Boot APIs for medical devices, an AWS IoT Core (MQTT) data pipeline and Firebase-backed services. Jun 2024 to Aug 2025, bbsAI, Software Engineer: document-extraction APIs for insurance RFQs, RSA client-side encryption and SonarQube static analysis in CI. Sep 2025 to Aug 2026, Entwine Technology, Software Engineer: a multi-tenant fleet-management ERP with live GPS tracking, geofenced trips, OpenTelemetry traces and PostHog." />
+  <img src="trail.svg" width="100%" alt="The trail so far. Dec 2023 to May 2024, Acuradyne Medical Systems, Software Engineer Intern: high-volume APIs and a real-time data pipeline for arterial pulse medical devices, built for zero downtime. Jun 2024 to Aug 2025, bbsAI, Software Engineer: automated document extraction for insurance RFQs, with client-side encryption and secure file transfer. Sep 2025 to Aug 2026, Entwine Technology, Software Engineer: a multi-tenant fleet-management ERP with live vehicle tracking, geofenced trips and full-stack observability." />
 </p>
 
 <p align="center">
