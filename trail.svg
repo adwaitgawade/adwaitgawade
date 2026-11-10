@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500" width="1200" height="500" role="img" aria-labelledby="title desc">
+  <title id="title">The trail so far: Adwait Gawade's experience</title>
+  <desc id="desc">A path draws itself across dusk hills and lights a lantern at each job. Dec 2023 to May 2024, Acuradyne Medical Systems, Software Engineer Intern. Jun 2024 to Aug 2025, bbsAI, Software Engineer. Sep 2025 to Aug 2026, Entwine Technology, Software Engineer.</desc>
+  <defs>
+    <linearGradient id="gDusk" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1e1c52"/>
+      <stop offset=".55" stop-color="#3b2f78"/>
+      <stop offset="1" stop-color="#6e4588"/>
+    </linearGradient>
+    <linearGradient id="gFar" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#5a4690"/><stop offset="1" stop-color="#3a3070"/></linearGradient>
+    <linearGradient id="gNear" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2c5a5c"/><stop offset=".6" stop-color="#1d3e4a"/><stop offset="1" stop-color="#14283a"/></linearGradient>
+    <radialGradient id="gGlow"><stop offset="0" stop-color="#fff0b0" stop-opacity=".95"/><stop offset=".3" stop-color="#ffc978" stop-opacity=".45"/><stop offset="1" stop-color="#ff9a60" stop-opacity="0"/></radialGradient>
+    <radialGradient id="gFly"><stop offset="0" stop-color="#fff2b0"/><stop offset=".35" stop-color="#ffd27a" stop-opacity=".6"/><stop offset="1" stop-color="#ffb860" stop-opacity="0"/></radialGradient>
+    <clipPath id="frame"><rect width="1200" height="500" rx="18"/></clipPath>
+    <filter id="rough" x="-2%" y="-2%" width="104%" height="104%">
+      <feTurbulence type="fractalNoise" baseFrequency=".035" numOctaves="2" seed="11"/>
+      <feDisplacementMap in="SourceGraphic" scale="3"/>
+    </filter>
+  </defs>
+
+  <style>
+    .t { font-family: Georgia, 'Times New Roman', serif; }
+    .h { font-size: 40px; font-style: italic; fill: #fdf1dc; }
+    .date { font-size: 15px; letter-spacing: .06em; fill: #ffc978; }
+    .co { font-size: 26px; font-style: italic; fill: #fdf1dc; }
+    .role { font-size: 17px; fill: #f8cfae; }
+    .body { font-size: 15.5px; fill: #ecdcef; }
+    .used { font-size: 14px; letter-spacing: .02em; fill: #e8bf8a; }
+    .ink { stroke: #140f2a; stroke-opacity: .5; stroke-width: 2; stroke-linejoin: round; }
+    .trail { fill: none; stroke: #f8cfae; stroke-opacity: .85; stroke-width: 3; stroke-linecap: round;
+      stroke-dasharray: 1; stroke-dashoffset: 1; animation: draw 2.4s linear .4s forwards; }
+    .uline { fill: none; stroke: #ffc978; stroke-width: 2.5; stroke-linecap: round;
+      stroke-dasharray: 1; stroke-dashoffset: 1; animation: draw 1s cubic-bezier(.2,.7,.2,1) .2s forwards; }
+    .stop { opacity: 0; animation: rise .8s cubic-bezier(.16,1,.3,1) var(--d) forwards; }
+    .lamp { opacity: 0; animation: light .7s ease-out var(--d) forwards, flicker 2.8s steps(6) calc(var(--d) + 1s) infinite; }
+    .star { animation: twinkle 3s ease-in-out infinite alternate; }
+    .fly { opacity: 0; animation: fade 1.2s ease-out 3s forwards, fly 6s ease-in-out 3s infinite alternate; }
+
+    @keyframes draw { to { stroke-dashoffset: 0; } }
+    @keyframes rise { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: none; } }
+    @keyframes light { from { opacity: 0; } to { opacity: 1; } }
+    @keyframes fade { to { opacity: 1; } }
+    @keyframes flicker { 0%,100% { opacity: 1; } 40% { opacity: .8; } 60% { opacity: .95; } 80% { opacity: .86; } }
+    @keyframes twinkle { from { opacity: .25; } to { opacity: 1; } }
+    @keyframes fly { from { transform: translate(0,0); } to { transform: translate(16px,-10px); } }
+
+    @media (prefers-reduced-motion: reduce) {
+      * { animation: none !important; }
+      .trail, .uline { stroke-dashoffset: 0; }
+      .stop, .lamp, .fly { opacity: 1; }
+    }
+  </style>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="500" fill="url(#gDusk)"/>
+
+    <g fill="#fff6da">
+      <circle class="star" cx="720" cy="40" r="1.6"/>
+      <circle class="star" cx="860" cy="70" r="1.1" style="animation-delay:-1s"/>
+      <circle class="star" cx="1010" cy="34" r="1.8" style="animation-delay:-2s"/>
+      <circle class="star" cx="1150" cy="58" r="1.2" style="animation-delay:-.5s"/>
+      <circle class="star" cx="560" cy="62" r="1.2" style="animation-delay:-1.6s"/>
+      <circle class="star" cx="420" cy="30" r="1" style="animation-delay:-2.4s"/>
+    </g>
+
+    <text class="t h" x="50" y="80">The trail so far</text>
+    <path class="uline" pathLength="1" d="M52 98 C140 92 240 101 332 94"/>
+
+    <!-- hills -->
+    <g filter="url(#rough)">
+      <path class="ink" fill="url(#gFar)" d="M0 352 C180 326 340 346 520 334 S860 312 1020 328 S1150 336 1200 330 L1200 500 L0 500 Z"/>
+      <path class="ink" fill="url(#gNear)" d="M0 384 C260 354 520 376 760 364 S1060 356 1200 362 L1200 500 L0 500 Z"/>
+    </g>
+
+    <!-- the trail -->
+    <path class="trail" pathLength="1" d="M-10 476 C80 446 150 414 210 406 S420 384 600 392 S860 414 990 401 S1150 376 1210 372"/>
+
+    <!-- stop 1 -->
+    <g class="stop" style="--d:.7s">
+      <text class="t date" x="50" y="146">DEC 2023 – MAY 2024</text>
+      <text class="t co" x="50" y="182">Acuradyne Medical Systems</text>
+      <text class="t role" x="50" y="210">Software Engineer Intern</text>
+      <text class="t body" x="50" y="242">Spring Boot APIs for medical devices,
+        <tspan x="50" dy="22">an AWS IoT Core (MQTT) data pipeline,</tspan>
+        <tspan x="50" dy="22">and Firebase-backed services.</tspan></text>
+      <text class="t used" x="50" y="320">Java · Spring Boot · AWS IoT · Firebase</text>
+    </g>
+    <!-- stop 2 -->
+    <g class="stop" style="--d:1.5s">
+      <text class="t date" x="440" y="146">JUN 2024 – AUG 2025</text>
+      <text class="t co" x="440" y="182">bbsAI</text>
+      <text class="t role" x="440" y="210">Software Engineer</text>
+      <text class="t body" x="440" y="242">Document-extraction APIs for insurance
+        <tspan x="440" dy="22">RFQs, RSA client-side encryption, and</tspan>
+        <tspan x="440" dy="22">SonarQube static analysis in CI.</tspan></text>
+      <text class="t used" x="440" y="320">Java · PostgreSQL · Redis · AWS</text>
+    </g>
+    <!-- stop 3 -->
+    <g class="stop" style="--d:2.3s">
+      <text class="t date" x="830" y="146">SEP 2025 – AUG 2026</text>
+      <text class="t co" x="830" y="182">Entwine Technology</text>
+      <text class="t role" x="830" y="210">Software Engineer</text>
+      <text class="t body" x="830" y="242">A multi-tenant fleet-management ERP:
+        <tspan x="830" dy="22">live GPS tracking, geofenced trips,</tspan>
+        <tspan x="830" dy="22">OpenTelemetry traces and PostHog.</tspan></text>
+      <text class="t used" x="830" y="320">Spring Boot · PostGIS · Next.js · Hetzner</text>
+    </g>
+
+    <!-- lantern posts -->
+    <g stroke="#140f2a" stroke-width="3" stroke-linecap="round" fill="none">
+      <path d="M210 406 V362 h10"/>
+      <path d="M600 392 V348 h10"/>
+      <path d="M990 401 V357 h10"/>
+    </g>
+    <g class="lamp" style="--d:.83s">
+      <circle cx="220" cy="374" r="34" fill="url(#gGlow)"/>
+      <rect x="214" y="364" width="12" height="16" rx="3" fill="#ffd488" stroke="#140f2a" stroke-width="1.5"/>
+    </g>
+    <g class="lamp" style="--d:1.6s">
+      <circle cx="610" cy="360" r="34" fill="url(#gGlow)"/>
+      <rect x="604" y="350" width="12" height="16" rx="3" fill="#ffd488" stroke="#140f2a" stroke-width="1.5"/>
+    </g>
+    <g class="lamp" style="--d:2.4s">
+      <circle cx="1000" cy="369" r="34" fill="url(#gGlow)"/>
+      <rect x="994" y="359" width="12" height="16" rx="3" fill="#ffd488" stroke="#140f2a" stroke-width="1.5"/>
+    </g>
+
+    <circle class="fly" cx="380" cy="430" r="7" fill="url(#gFly)"/>
+    <circle class="fly" cx="780" cy="446" r="6" fill="url(#gFly)" style="animation-delay:3.4s,3.4s"/>
+    <circle class="fly" cx="1120" cy="432" r="7" fill="url(#gFly)" style="animation-delay:3.8s,3.8s"/>
+  </g>
+</svg>
