@@ -184,6 +184,6 @@
   <path class="line" pathLength="1" style="--d:.8s" stroke="#ffc978" stroke-width="2.5" stroke-linecap="round"
     d="M66 170 C160 163 300 174 444 165"/>
   <text class="t role" x="64" y="210">Java full-stack &amp; cloud engineer</text>
-  <text class="t stack" x="64" y="248">Java · Spring Boot · Next.js · PostgreSQL · AWS</text>
+  <text class="t stack" x="64" y="248">Java · Spring Boot · Python · FastAPI · Next.js · PostgreSQL · AWS</text>
   </g>
 </svg>

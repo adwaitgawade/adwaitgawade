@@ -25,7 +25,6 @@
     .co { font-size: 26px; font-style: italic; fill: #fdf1dc; }
     .role { font-size: 17px; fill: #f8cfae; }
     .body { font-size: 15.5px; fill: #ecdcef; }
-    .used { font-size: 14px; letter-spacing: .02em; fill: #e8bf8a; }
     .ink { stroke: #140f2a; stroke-opacity: .5; stroke-width: 2; stroke-linejoin: round; }
     .trail { fill: none; stroke: #f8cfae; stroke-opacity: .85; stroke-width: 3; stroke-linecap: round;
       stroke-dasharray: 1; stroke-dashoffset: 1; animation: draw 2.4s linear .4s forwards; }
@@ -80,20 +79,18 @@
       <text class="t date" x="50" y="146">DEC 2023 – MAY 2024</text>
       <text class="t co" x="50" y="182">Acuradyne Medical Systems</text>
       <text class="t role" x="50" y="210">Software Engineer Intern</text>
-      <text class="t body" x="50" y="242">Spring Boot APIs for medical devices,
-        <tspan x="50" dy="22">an AWS IoT Core (MQTT) data pipeline,</tspan>
-        <tspan x="50" dy="22">and Firebase-backed services.</tspan></text>
-      <text class="t used" x="50" y="320">Java · Spring Boot · AWS IoT · Firebase</text>
+      <text class="t body" x="50" y="242">High-volume APIs and a real-time data
+        <tspan x="50" dy="22">pipeline for arterial pulse medical</tspan>
+        <tspan x="50" dy="22">devices, built for zero downtime.</tspan></text>
     </g>
     <!-- stop 2 -->
     <g class="stop" style="--d:1.5s">
       <text class="t date" x="440" y="146">JUN 2024 – AUG 2025</text>
       <text class="t co" x="440" y="182">bbsAI</text>
       <text class="t role" x="440" y="210">Software Engineer</text>
-      <text class="t body" x="440" y="242">Document-extraction APIs for insurance
-        <tspan x="440" dy="22">RFQs, RSA client-side encryption, and</tspan>
-        <tspan x="440" dy="22">SonarQube static analysis in CI.</tspan></text>
-      <text class="t used" x="440" y="320">Java · PostgreSQL · Redis · AWS</text>
+      <text class="t body" x="440" y="242">Automated document extraction for
+        <tspan x="440" dy="22">insurance RFQs, with client-side</tspan>
+        <tspan x="440" dy="22">encryption and secure file transfer.</tspan></text>
     </g>
     <!-- stop 3 -->
     <g class="stop" style="--d:2.3s">
@@ -101,9 +98,8 @@
       <text class="t co" x="830" y="182">Entwine Technology</text>
       <text class="t role" x="830" y="210">Software Engineer</text>
       <text class="t body" x="830" y="242">A multi-tenant fleet-management ERP:
-        <tspan x="830" dy="22">live GPS tracking, geofenced trips,</tspan>
-        <tspan x="830" dy="22">OpenTelemetry traces and PostHog.</tspan></text>
-      <text class="t used" x="830" y="320">Spring Boot · PostGIS · Next.js · Hetzner</text>
+        <tspan x="830" dy="22">live vehicle tracking, geofenced trips,</tspan>
+        <tspan x="830" dy="22">and full-stack observability.</tspan></text>
     </g>
 
     <!-- lantern posts -->
