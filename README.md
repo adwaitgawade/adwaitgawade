@@ -3,16 +3,12 @@
 </p>
 
 <p align="center">
-  I build backends in <b>Java and Spring Boot</b>, frontends in <b>Next.js</b>, and run them on <b>AWS, Hetzner and Cloudflare</b>.<br />
+  I build backends in <b>Java and Spring Boot</b>, <b>Python and FastAPI</b>, frontends in <b>Next.js</b>, and run them on <b>AWS, Hetzner and Cloudflare</b>.<br />
   Two and a half years across logistics ERP, insurance, healthcare and IoT, from the database schema to the deploy.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/adwait-gawade/">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:adwaitg02@gmail.com">adwaitg02@gmail.com</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.instagram.com/____adwait____/">Instagram</a>
   &nbsp;·&nbsp;
   Mumbai, India
 </p>
