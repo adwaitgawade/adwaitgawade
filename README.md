@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github-assets/banner.svg" width="100%" alt="Adwait Gawade, Java full-stack and cloud engineer. Java, Spring Boot, Next.js, PostgreSQL, AWS." />
+  <img src="banner.svg" width="100%" alt="Adwait Gawade, Java full-stack and cloud engineer. Java, Spring Boot, Next.js, PostgreSQL, AWS." />
 </p>
 
 <p align="center">
@@ -20,11 +20,11 @@
 <br />
 
 <p align="center">
-  <img src="github-assets/trail.svg" width="100%" alt="The trail so far. Dec 2023 to May 2024, Acuradyne Medical Systems, Software Engineer Intern: Spring Boot APIs for medical devices, an AWS IoT Core (MQTT) data pipeline and Firebase-backed services. Jun 2024 to Aug 2025, bbsAI, Software Engineer: document-extraction APIs for insurance RFQs, RSA client-side encryption and SonarQube static analysis in CI. Sep 2025 to Aug 2026, Entwine Technology, Software Engineer: a multi-tenant fleet-management ERP with live GPS tracking, geofenced trips, OpenTelemetry traces and PostHog." />
+  <img src="trail.svg" width="100%" alt="The trail so far. Dec 2023 to May 2024, Acuradyne Medical Systems, Software Engineer Intern: Spring Boot APIs for medical devices, an AWS IoT Core (MQTT) data pipeline and Firebase-backed services. Jun 2024 to Aug 2025, bbsAI, Software Engineer: document-extraction APIs for insurance RFQs, RSA client-side encryption and SonarQube static analysis in CI. Sep 2025 to Aug 2026, Entwine Technology, Software Engineer: a multi-tenant fleet-management ERP with live GPS tracking, geofenced trips, OpenTelemetry traces and PostHog." />
 </p>
 
 <p align="center">
-  <img src="github-assets/stack.svg" width="100%" alt="What I build with. Backend: Java 8+, Spring Boot, Python, FastAPI, Spring Data JPA, REST APIs, SOLID and design patterns, multithreading. Frontend: Next.js App Router, React, TypeScript, Server Components, HTML and CSS. Data and messaging: PostgreSQL, Aurora PostgreSQL, PostGIS, TimescaleDB, Redis, AWS SQS and SNS. Cloud: AWS EC2, ECS, RDS, S3, Lambda, Hetzner Cloud, Cloudflare R2, Dokploy, Vercel. Quality and ops: Docker, SonarQube, Trivy, OpenTelemetry, PostHog, Locust. AI tooling: RAG, MCP, LangChain, LangSmith." />
+  <img src="stack.svg" width="100%" alt="What I build with. Backend: Java 8+, Spring Boot, Python, FastAPI, Spring Data JPA, REST APIs, SOLID and design patterns, multithreading. Frontend: Next.js App Router, React, TypeScript, Server Components, HTML and CSS. Data and messaging: PostgreSQL, Aurora PostgreSQL, PostGIS, TimescaleDB, Redis, AWS SQS and SNS. Cloud: AWS EC2, ECS, RDS, S3, Lambda, Hetzner Cloud, Cloudflare R2, Dokploy, Vercel. Quality and ops: Docker, SonarQube, Trivy, OpenTelemetry, PostHog, Locust. AI tooling: RAG, MCP, LangChain, LangSmith." />
 </p>
 
 <br />
