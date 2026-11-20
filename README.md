@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" width="100%" alt="Adwait Gawade, Java full-stack and cloud engineer. Java, Spring Boot, Python, FastAPI, Next.js, PostgreSQL, AWS." />
+  <img src="banner.svg" width="100%" alt="Adwait Gawade, full-stack and cloud engineer. Java, Spring Boot, Python, FastAPI, Next.js, PostgreSQL, AWS." />
 </p>
 
 <p align="center">
