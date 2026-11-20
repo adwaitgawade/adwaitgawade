@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420" role="img" aria-labelledby="title desc">
-  <title id="title">Adwait Gawade, Java full-stack and cloud engineer</title>
+  <title id="title">Adwait Gawade, Full-Stack and Cloud Engineer</title>
   <desc id="desc">A hand-drawn sunset landscape sketches itself in ink, then fills with colour: rolling hills, two turning windmills, a small cabin with a lit window and a tree, with Adwait's name, role and stack on the left.</desc>
   <defs>
     <clipPath id="frame"><rect width="1200" height="420" rx="18"/></clipPath>
@@ -183,7 +183,7 @@
   <text class="t name" x="64" y="150">Adwait Gawade</text>
   <path class="line" pathLength="1" style="--d:.8s" stroke="#ffc978" stroke-width="2.5" stroke-linecap="round"
     d="M66 170 C160 163 300 174 444 165"/>
-  <text class="t role" x="64" y="210">Java full-stack &amp; cloud engineer</text>
+  <text class="t role" x="64" y="210">full-stack &amp; cloud engineer</text>
   <text class="t stack" x="64" y="248">Java · Spring Boot · Python · FastAPI · Next.js · PostgreSQL · AWS</text>
   </g>
 </svg>
